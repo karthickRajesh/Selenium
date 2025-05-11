@@ -24,8 +24,8 @@ This project is the outcome of my self-learning about the Selenium.
 
 ## Will be practicing below cases
 
--How to initiate a brower and close it (cross browser) --- Done
--How to Login to a webpage
--How to Login to Webpage using Page Object Model
--How to Login to Webpage using Page Object Model using page Factory
--How to run multiple Login cases using Data Driven Style (Excel)
+- How to initiate a brower and close it (cross browser) --- Done
+- How to Login to a webpage
+- How to Login to Webpage using Page Object Model
+- How to Login to Webpage using Page Object Model using page Factory
+- How to run multiple Login cases using Data Driven Style (Excel)
