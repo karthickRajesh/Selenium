@@ -19,6 +19,8 @@ This project is the outcome of my self-learning about the Selenium.
 - **Reporting**: ExtentReports
 - **Logging**: Log4j
 
+## Pratice Websites
+-https://demoqa.com/
 
 ## Will be practicing below cases
 
