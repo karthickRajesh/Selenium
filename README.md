@@ -20,10 +20,10 @@ This project is the outcome of my self-learning about the Selenium.
 - **Logging**: Log4j
 
 ## Pratice Websites
--https://demoqa.com/
--https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
--https://www.saucedemo.com/
--https://leafground.com/input.xhtml
+- https://demoqa.com/
+- https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+- https://www.saucedemo.com/
+- https://leafground.com/input.xhtml
 
 
 ## Will be practicing below cases
