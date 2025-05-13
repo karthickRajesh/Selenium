@@ -21,11 +21,15 @@ This project is the outcome of my self-learning about the Selenium.
 
 ## Pratice Websites
 -https://demoqa.com/
+-https://opensource-demo.orangehrmlive.com/web/index.php/auth/login
+-https://www.saucedemo.com/
+-https://leafground.com/input.xhtml
+
 
 ## Will be practicing below cases
 
-- How to initiate a brower and close it (cross browser) --- Done
-- How to Login to a webpage
+- How to initiate a brower and close it (cross browser) --- (selenium.BasicBrowserActionsAcrossBrowsers.java)
+- How to Login to a webpage --- (selenium.LoginTest.java)
 - How to Login to Webpage using Page Object Model
 - How to Login to Webpage using Page Object Model using page Factory
 - How to run multiple Login cases using Data Driven Style (Excel)
