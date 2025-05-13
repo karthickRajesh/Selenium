@@ -30,6 +30,6 @@ This project is the outcome of my self-learning about the Selenium.
 
 - How to initiate a brower and close it (cross browser) --- (selenium.BasicBrowserActionsAcrossBrowsers.java)
 - How to Login to a webpage --- (selenium.LoginTest.java)
-- How to Login to Webpage using Page Object Model
-- How to Login to Webpage using Page Object Model using page Factory
+- How to Login to Webpage using Page Object Model --- (pageObjectModel.LoginTest.java)
+- How to Login to Webpage using Page Object Model using page Factory --- (PageFactoryModel.LoginTest.java)
 - How to run multiple Login cases using Data Driven Style (Excel)
