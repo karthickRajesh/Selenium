@@ -32,4 +32,15 @@ This project is the outcome of my self-learning about the Selenium.
 - How to Login to a webpage --- (selenium.LoginTest.java)
 - How to Login to Webpage using Page Object Model --- (pageObjectModel.LoginTest.java)
 - How to Login to Webpage using Page Object Model using page Factory --- (PageFactoryModel.LoginTest.java)
+- Text Box Handling
+- Button Handling
+- DropDown Handling
+- Check Box Handling
+- Radio Button Handling
+- Hyperlink Handling
+- Wait Handling
+- Alert Handling
+- Window Handling
+- Frames Handling
+- Drag Handling
 - How to run multiple Login cases using Data Driven Style (Excel)
