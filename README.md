@@ -32,6 +32,7 @@ This project is the outcome of my self-learning about the Selenium.
 - How to Login to a webpage --- (selenium.LoginTest.java)
 - How to Login to Webpage using Page Object Model --- (pageObjectModel.LoginTest.java)
 - How to Login to Webpage using Page Object Model using page Factory --- (PageFactoryModel.LoginTest.java)
+- Taking Screenshots (selenium.TakeScreenShot.java)
 - Text Box Handling
 - Button Handling
 - DropDown Handling
