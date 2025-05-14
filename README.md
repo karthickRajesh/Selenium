@@ -44,4 +44,5 @@ This project is the outcome of my self-learning about the Selenium.
 - Window Handling
 - Frames Handling
 - Drag Handling
+- Navigation Handling
 - How to run multiple Login cases using Data Driven Style (Excel)
