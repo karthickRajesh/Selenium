@@ -28,4 +28,5 @@ public class LeafGroundButtonPage {
 
     @FindBy(id="j_idt88:j_idt107")
     public static WebElement primaryButton;
+
 }
