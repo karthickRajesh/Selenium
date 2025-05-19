@@ -28,12 +28,12 @@ This project is the outcome of my self-learning about the Selenium.
 
 ## Will be practicing below cases
 
-- How to initiate a brower and close it (cross browser) (selenium.BasicBrowserActionsAcrossBrowsers.java)
-- How to Login to a webpage (selenium.LoginTest.java)
-- How to Login to Webpage using Page Object Model (pageObjectModel.LoginTest.java)
-- How to Login to Webpage using Page Object Model using page Factory (PageFactoryModel.LoginTest.java)
-- Taking Screenshots (selenium.TakingScreenShot.java)
-- Text Box Handling (selenium.TextBoxHandling.java)
+- How to initiate a brower and close it
+- How to Login to a webpage
+- How to Login to Webpage using Page Object Model
+- How to Login to Webpage using Page Object Model using page Factory
+- Taking Screenshots
+- Text Box Handling
 - Button Handling
 - DropDown Handling
 - Check Box Handling
