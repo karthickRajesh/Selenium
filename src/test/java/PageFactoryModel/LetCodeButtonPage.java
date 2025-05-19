@@ -24,4 +24,8 @@ public class LetCodeButtonPage {
     @FindBy(className = "is-primary")
     public static WebElement holdButton;
 
+    @FindBy(xpath = "/html/body/app-root/app-buttons/section")
+    public static WebElement section;
+
+
 }
