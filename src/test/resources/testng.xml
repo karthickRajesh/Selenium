@@ -2,7 +2,7 @@
 <suite name="CrossBrowserTestingSuite" parallel="methods" thread-count="3">
     <test name="BrowserTests">
         <classes>
-            <class name="selenium.BasicBrowserActionsAcrossBrowsers" />
+            <class name="seleniumLeafGround.BasicBrowserActionsAcrossBrowsers" />
         </classes>
     </test>
 </suite>

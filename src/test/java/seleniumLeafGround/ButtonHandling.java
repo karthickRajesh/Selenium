@@ -1,7 +1,6 @@
-package selenium;
+package seleniumLeafGround;
 
 import PageFactoryModel.LeafGroundButtonPage;
-import PageFactoryModel.LeafGroundToolBoxPage;
 import org.openqa.selenium.Dimension;
 import org.openqa.selenium.JavascriptExecutor;
 import org.openqa.selenium.Point;

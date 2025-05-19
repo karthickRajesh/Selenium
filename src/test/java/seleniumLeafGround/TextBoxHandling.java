@@ -1,4 +1,4 @@
-package selenium;
+package seleniumLeafGround;
 
 import PageFactoryModel.LeafGroundToolBoxPage;
 import org.openqa.selenium.*;
