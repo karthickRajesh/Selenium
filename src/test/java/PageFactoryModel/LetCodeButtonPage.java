@@ -10,16 +10,16 @@ public class LetCodeButtonPage {
     public static WebElement goToHomeButton;
 
     @FindBy(id="position")
-    public static WebElement findLocation;
+    public static WebElement findLocationButton;
 
     @FindBy(id="color")
-    public static WebElement findColor;
+    public static WebElement findColorButton;
 
     @FindBy(id="property")
-    public static WebElement findSize;
+    public static WebElement findSizeButton;
 
     @FindBy(id="isDisabled")
-    public static WebElement isDisabled;
+    public static WebElement isDisabledButton;
 
     @FindBy(className = "is-primary")
     public static WebElement holdButton;
