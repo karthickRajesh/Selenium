@@ -14,12 +14,14 @@ public class NavigationHandling {
     @BeforeTest
     public void startBrowser(){
         driver = new ChromeDriver();
-        driver.get("https://letcode.in/button");
-        PageFactory.initElements(driver, LetCodeButtonPage.class);
     }
 
     @Test
     public void navigationHandling(){
+
+        driver.get("https://letcode.in/button");
+        PageFactory.initElements(driver, LetCodeButtonPage.class);
+
         System.out.println("Initial Url is " + driver.getCurrentUrl());
         LetCodeButtonPage.goToHomeButton.click();
         System.out.println("After Clicking Url is " + driver.getCurrentUrl());
