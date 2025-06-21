@@ -1,6 +1,6 @@
-package seleniumLeafGround;
+package seleniumLeafGround.testclasses;
 
-import PageFactoryModel.LeafGroundDropDownPage;
+import seleniumLeafGround.pagefactory.LeafGroundDropDownPage;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.support.PageFactory;

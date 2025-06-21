@@ -1,6 +1,6 @@
-package seleniumLetCode;
+package LetCodePractice.testclasses;
 
-import PageFactoryModel.LetCodeAlertPage;
+import LetCodePractice.pagefactory.LetCodeAlertPage;
 import org.openqa.selenium.Alert;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
@@ -23,7 +23,6 @@ public class AlertHandling {
     public void acceptAlert(){
         LetCodeAlertPage.acceptAlert.click();
         Alert alert = driver.switchTo().alert();
-        aler
         System.out.println(alert.getText());
         driver.switchTo().alert().accept();
     }

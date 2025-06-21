@@ -1,4 +1,4 @@
-package seleniumLeafGround;
+package seleniumLeafGround.testclasses;
 
 import org.apache.commons.io.FileUtils;
 import org.openqa.selenium.OutputType;

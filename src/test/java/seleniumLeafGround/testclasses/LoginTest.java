@@ -1,4 +1,4 @@
-package seleniumLeafGround;
+package seleniumLeafGround.testclasses;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;

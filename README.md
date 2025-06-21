@@ -28,12 +28,12 @@ This project is the outcome of my self-learning about the Selenium.
 
 ## Will be practicing below cases
 
-- How to initiate a brower and close it (cross browser) (seleniumLeafGround.BasicBrowserActionsAcrossBrowsers.java)
-- How to Login to a webpage (seleniumLeafGround.LoginTest.java)
-- How to Login to Webpage using Page Object Model (pageObjectModel.LoginTest.java)
-- How to Login to Webpage using Page Object Model using page Factory (PageFactoryModel.LoginTest.java)
-- Taking Screenshots (seleniumLeafGround.TakingScreenShot.java)
-- Text Box Handling (seleniumLeafGround.TextBoxHandling.java)
+- How to initiate a browser and close it (cross browser)
+- How to Login to a webpage
+- How to Login to Webpage using Page Object Model
+- How to Login to Webpage using Page Object Model using page Factory
+- Taking Screenshots
+- Text Box Handling
 - Button Handling
 - DropDown Handling
 - Check Box Handling

@@ -1,6 +1,6 @@
-package seleniumLetCode;
+package LetCodePractice.testclasses;
 
-import PageFactoryModel.LetCodeInputPage;
+import LetCodePractice.pagefactory.LetCodeInputPage;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.support.PageFactory;

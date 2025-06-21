@@ -1,6 +1,6 @@
-package seleniumLeafGround;
+package seleniumLeafGround.testclasses;
 
-import PageFactoryModel.LeafGroundToolBoxPage;
+import seleniumLeafGround.pagefactory.LeafGroundToolBoxPage;
 import org.openqa.selenium.*;
 import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.support.PageFactory;

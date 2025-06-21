@@ -1,6 +1,6 @@
-package seleniumLetCode;
+package LetCodePractice.testclasses;
 
-import PageFactoryModel.LetCodeButtonPage;
+import LetCodePractice.pagefactory.LetCodeButtonPage;
 import org.openqa.selenium.Dimension;
 import org.openqa.selenium.Point;
 import org.openqa.selenium.WebDriver;
